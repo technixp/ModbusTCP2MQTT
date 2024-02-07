@@ -5,3 +5,4 @@ pymodbus~=2.5.3
 SungrowModbusTcpClient>=0.1.6
 SungrowModbusWebClient>=0.3.2
 readsettings>=3.4.5
+pycryptodomex~=3.11.0
