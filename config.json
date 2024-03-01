@@ -4,7 +4,7 @@
   "slug": "modbus_inverter",
   "description": "Sungrow/SMA inverter Modbus Data Fetcher",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/roabyd/ModbusTCP2MQTT-FIX_PyCrypt",
+  "url": "https://github.com/roabyd/ModbusTCP2MQTT",
   "init": false,
   "startup": "application",
   "boot": "auto",
