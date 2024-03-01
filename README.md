@@ -1,4 +1,4 @@
-# ModbusTCP2MQTT - b's Fork
+# ModbusTCP2MQTT - Roaby's Fork
 Sungrow &amp; SMA Solar Inverter addon for Home Assistant.
 This addon will connect directly to your Inverter using ModbusTCP/MobusWebTCP
 
