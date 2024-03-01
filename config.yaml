@@ -2,7 +2,7 @@ name: ModbusTCP2MQTT
 version: "0.3.10"
 slug: modbus_inverter
 description: Sungrow/SMA inverter Modbus communication
-url: "https://github.com/roabyd/ModbusTCP2MQTT-FIX_PyCrypt"
+url: "https://github.com/roabyd/ModbusTCP2MQTT"
 arch: 
   - armhf
   - armv7
